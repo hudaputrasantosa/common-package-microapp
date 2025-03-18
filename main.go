@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/hudaputrasantosacommon-package-microapp/config"
+	"github.com/hudaputrasantosa/common-package-microapp/config"
 )
 
 func main() {

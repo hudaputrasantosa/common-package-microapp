@@ -4,9 +4,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/hudaputrasantosacommon-package-microapp/config"
-	"github.com/hudaputrasantosacommon-package-microapp/utils/logger"
-	"github.com/hudaputrasantosacommon-package-microapp/utils/templates"
+	"github.com/hudaputrasantosa/common-package-microapp/config"
+	"github.com/hudaputrasantosa/common-package-microapp/utils/logger"
+	"github.com/hudaputrasantosa/common-package-microapp/utils/templates"
 	mailersend "github.com/mailersend/mailersend-go"
 	"go.uber.org/zap"
 )

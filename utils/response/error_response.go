@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/hudaputrasantosacommon-package-microapp/utils/validation"
+	"github.com/hudaputrasantosa/common-package-microapp/utils/validation"
 )
 
 func ErrorMessage(c *fiber.Ctx, statusCode int, message string, err error, data ...interface{}) error {
